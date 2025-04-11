@@ -1,0 +1,7 @@
+#include "../array/include/s21_array.h"
+#include "../list/include/s21_list.h"
+#include "../map/include/s21_map.h"
+#include "../queue/include/s21_queue.h"
+#include "../set/include/s21_set.h"
+#include "../stack/include/s21_stack.h"
+#include "../vector/include/s21_vector.h"
